@@ -1,5 +1,10 @@
 tacos
 pizza
+<<<<<<< HEAD
 chicken
 noodles
 pretzels 
+=======
+chicken 
+hot wings
+>>>>>>> 65266f4c8f2bc655139ff2735068ada1d17576e1
