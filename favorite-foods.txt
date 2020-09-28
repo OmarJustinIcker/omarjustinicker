@@ -1,3 +1,5 @@
 tacos
 pizza
-chicken 
+chicken
+noodles
+pretzels 
